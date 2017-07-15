@@ -1,0 +1,5 @@
+[package]
+description = Scripts for cases where hardware device identifiers are discovered.
+tags = hardware
+version = 1.0.0
+script_dir = scripts
